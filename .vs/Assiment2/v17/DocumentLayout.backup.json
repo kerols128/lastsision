@@ -1,0 +1,206 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Assiment2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|c:\\users\\admin\\desktop\\assiment2\\admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|solutionrelative:admin.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|C:\\Users\\Admin\\Desktop\\Assiment2\\admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|solutionrelative:admin.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|C:\\Users\\Admin\\Desktop\\Assiment2\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|C:\\Users\\Admin\\Desktop\\Assiment2\\sign_up.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|solutionrelative:sign_up.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|C:\\Users\\Admin\\Desktop\\Assiment2\\applications.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|solutionrelative:applications.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|C:\\Users\\Admin\\Desktop\\Assiment2\\login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|solutionrelative:login.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|C:\\Users\\Admin\\Desktop\\Assiment2\\applications.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|solutionrelative:applications.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|C:\\Users\\Admin\\Desktop\\Assiment2\\login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|solutionrelative:login.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|C:\\Users\\Admin\\Desktop\\Assiment2\\sign_up.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|solutionrelative:sign_up.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|C:\\Users\\Admin\\Desktop\\Assiment2\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|solutionrelative:model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|C:\\Users\\Admin\\Desktop\\Assiment2\\model12.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{EF3CFD76-CC6B-45AB-BA90-9BA56BD80805}|Assiment2.csproj|solutionrelative:model12.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Admin.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assiment2\\Admin.xaml",
+              "RelativeDocumentMoniker": "Admin.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assiment2\\Admin.xaml",
+              "RelativeToolTip": "Admin.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T19:55:35.45Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assiment2\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assiment2\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-13T10:00:03.017Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model12.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assiment2\\Model12.edmx",
+              "RelativeDocumentMoniker": "Model12.edmx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assiment2\\Model12.edmx [Diagram1]",
+              "RelativeToolTip": "Model12.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-13T08:18:28.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Admin.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assiment2\\Admin.xaml.cs",
+              "RelativeDocumentMoniker": "Admin.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assiment2\\Admin.xaml.cs",
+              "RelativeToolTip": "Admin.xaml.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAD0AAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:22:57.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Applications.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assiment2\\Applications.xaml.cs",
+              "RelativeDocumentMoniker": "Applications.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assiment2\\Applications.xaml.cs",
+              "RelativeToolTip": "Applications.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowCYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T21:00:23.636Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Sign_up.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assiment2\\Sign_up.xaml.cs",
+              "RelativeDocumentMoniker": "Sign_up.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assiment2\\Sign_up.xaml.cs",
+              "RelativeToolTip": "Sign_up.xaml.cs",
+              "ViewState": "AgIAABMAAADA//////8XwB4AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T20:48:22.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assiment2\\Login.xaml.cs",
+              "RelativeDocumentMoniker": "Login.xaml.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assiment2\\Login.xaml.cs",
+              "RelativeToolTip": "Login.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwB8AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T20:40:22.732Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assiment2\\Model1.edmx",
+              "RelativeDocumentMoniker": "Model1.edmx",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assiment2\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-12T20:39:20.037Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Applications.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assiment2\\Applications.xaml",
+              "RelativeDocumentMoniker": "Applications.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assiment2\\Applications.xaml",
+              "RelativeToolTip": "Applications.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T19:54:37.517Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Login.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assiment2\\Login.xaml",
+              "RelativeDocumentMoniker": "Login.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assiment2\\Login.xaml",
+              "RelativeToolTip": "Login.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T19:50:20.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sign_up.xaml",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Assiment2\\Sign_up.xaml",
+              "RelativeDocumentMoniker": "Sign_up.xaml",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Assiment2\\Sign_up.xaml",
+              "RelativeToolTip": "Sign_up.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-12T19:53:46.785Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
